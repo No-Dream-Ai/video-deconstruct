@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+sorties/
+video.mp4
+video.info.json
+frames/
+*.srt
+*.vtt
+.venv/
+.DS_Store
+Thumbs.db
