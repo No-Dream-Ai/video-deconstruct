@@ -30,7 +30,7 @@ Extrait le **transcript**, des **frames** et les **statistiques publiques** (vue
 
 ## Installation en 3 étapes
 
-1. Cloner le dépôt : `git clone <adresse-du-depot> video-deconstruct`
+1. Cloner le dépôt : `git clone https://github.com/No-Dream-Ai/video-deconstruct.git video-deconstruct`
 2. Installer les prérequis ci-dessus et vérifier `ffmpeg -version`.
 3. (Optionnel, pour Claude Code) copier le dossier dans `~/.claude/skills/video-deconstruct/` : le skill se déclenche quand vous collez une URL de vidéo.
 
